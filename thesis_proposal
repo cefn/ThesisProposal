@@ -32,9 +32,9 @@ Business losses from eager licensing can take place directly through loss of mar
 
 In common with many industry commentators (Hacker 2000, Doctorow 2011), I believe the limitations on consumer freedoms imposed by content-industry-approved digital distribution have disadvantaged the legitimate product against the more accessible and flexible, unlicensed alternative of ripping content from CDs and DVDs. As the consumers choices have played out, the emergence of liberal digital distribution and consumption mechanisms such as iTunes and the iPod has undermined the 'A&R' advantages which record labels once had as gatekeepers to the market. Mainstream sales volumes for the copyright industry are in freefall and disintermediation now threatens their existence.
 
-Similarly, open source projects, which channel the contributions of many interested parties into an asset available to all, are at the core of Firefox, Google Chrome, Linux, Android, Apple's Mac OS X and iOS. Against the odds, "thriving communities...who write ...code, then give it away" (Moody 2001) have been able to erode the market share of proprietary and closed source alternatives, including those as well-resourced and dominant as Microsoft Windows and Internet Explorer, by exploiting the organising power of "technologies of cooperation" (Rheingold 2003).
+Similarly, open source projects which channel the contributions of many interested parties into an asset available to all, are at the core of Firefox, Google Chrome, Linux, Android, Apple's Mac OS X and iOS. Against the odds, "thriving communities...who write ...code, then give it away" (Moody 2001) have been able to erode the market share of proprietary and closed source alternatives, including those as well-resourced and dominant as Microsoft Windows and Internet Explorer, by exploiting the organising power of "technologies of cooperation" (Rheingold 2003).
 
-The idea that all available IP rights should be enforced to maximise profit has been challenged across a number of industry sectors. Where the recording industry and software industry has led, a wider group of creative individuals follow as the impact of the "digital revolution" cascades through their sectors (Gershenfeld 2007). The commoditisation of both digital hardware and software, and the development of digital fabrication techniques, has led to the emergence of challenging alternative business models. Open Source, Creative Commons and similarly liberal licenses act as the architectural foundation of a growing collection of products and services without the encumbrances and transaction friction of rights-controlled resources.
+The idea that all available IP rights should be enforced to maximise profit has thus been challenged across a number of industries. Where the recording industry and software industry has led, a wider group of creative individuals follow as the impact of the "digital revolution" cascades through their sectors (Gershenfeld 2007). The commoditisation of both digital hardware and software, and the development of digital fabrication techniques, has led to the emergence of challenging alternative business models. Open Source, Creative Commons and similarly liberal licenses act as the architectural foundation of a growing collection of products and services without the encumbrances and transaction friction of rights-controlled resources.
 
 It is too soon to tell if these approaches are ‘game changers’ in every industry. So far, the commercial mainstream of inventors and product designers have not adopted liberal licenses as widely as the software community. However, even if we expect their impact to be more limited, there is value in understanding the boundaries to the business terrain in which these approaches lead to proven commercial success. 
 
@@ -48,18 +48,6 @@ Despite the scarcity of actionable insight, established companies and seasoned p
 
 The studies I propose will be inevitably narrow in scope, but should harvest hard data for decision-makers articulating a licensing strategy for their business. In particular, the evidence gathered should help businesses avoid self-defeating licensing approaches where liberal alternatives are more profitable than intellectual property enforcement.
 
-Related work
-++++++++++++
-
-This work is deliberately complementary to existing work in "open innovation" (Chesborough 2003) and
-"user innovation" (von Hippel 2005).
-
-Henry Chesborough (2003) emphasises the disclosure of intellectual property assets as a means of forming alliances and collaborations to maximise exploitation of a portfolio, but his manifesto largely depends upon the assumption of licensing as a revenue model.
-
-Eric von Hippel (1988, 2005) emphasises the value of lead users' contributions to the definition and solution of commercially valuable design problems, but he does not establish particular strategies by which the liberal licensing of the organisation's own intellectual property can be used as a means of gathering and channeling user innovation to maximise profit.
-
-The focus on the licensing of product designs also contrasts strongly with existing work understanding the economic motivations of open source contributors and analysing optimum licensing for software (Lerner and Tirole 2002,Colazon and Fang 2009). As von Hippel's evidence base demonstrates, product design is an accessible discipline without the same asymmetries between a developer and a user population. The
-phenomenon of open-source invention is substantially less mature and proven than that of software, making it a rich domain for new enquiry.
 
 Method
 ++++++
@@ -81,14 +69,25 @@ The modelling phase should give rise to hypotheses concerning the initial condit
 A collection of prototype designs has already been prepared by the author whose product launch can act as a credible backbone for these experiments. One candidate is a working prototype of an Alti-Vario flight instrument intended for the hobby gliding market. Another working prototype, developed in collaboration with a ten year old entrepreneur from Wrexham as part of CBBC's My Genius Idea programme, augments the traditional keyboard with MIDI-driven LEDs which can interactively teach melodies to piano students. Each of these products could be made available to the public on the one hand as an open design which invites imitation and variation, and on the other as a closed offering which has been patented, and is only available for purchase as a final design.
 
 
+Contrast with related work
+++++++++++++++++++++++++++
+
+This work is deliberately complementary to existing work in "open innovation" (Chesborough 2003) and
+"user innovation" (von Hippel 2005).
+
+Henry Chesborough (2003) emphasises the disclosure of intellectual property assets as a means of forming alliances and collaborations to maximise exploitation of a portfolio, but his manifesto largely depends upon the assumption of licensing as a revenue model.
+
+Eric von Hippel (1988, 2005) emphasises the value of lead users' contributions to the definition and solution of commercially valuable design problems, but he does not establish particular strategies by which the liberal licensing of the organisation's own intellectual property can be used as a means of gathering and channeling user innovation to maximise profit.
+
+The focus on the licensing of product designs also contrasts strongly with existing work understanding the economic motivations of open source contributors and analysing optimum licensing for software (Lerner and Tirole 2002,Colazon and Fang 2009). As von Hippel's evidence base demonstrates, product design is an accessible discipline without the same asymmetries between a developer and a user population. The
+phenomenon of open-source invention is substantially less mature and proven than that of software, making it a rich domain for new enquiry.
+
 Key Questions
 +++++++++++++
 
 It is not trivial to create a defensible protocol for a controlled experiment within the real digital economy. This will consume a great deal of the time, effort and collaborative work within the PhD. Simplistic approaches will fail to achieve a statistically significant data set to reduce the influence of sheer randomness on the results. On the other hand large numbers of trials targeting the same audience of decision makers could easily threaten the independence of those trials. Additionally, evidence gathered concerning audience members is likely to be impacted by self-selection bias, distorting the results compared to the population as a whole.
 
 To mitigate some of these effects, the scale of trials can be varied. At one extreme, the impact of individual concepts on a web visitor's immediate behaviour can be tested by presenting different messages and images within a single page-impression. At the other extreme, two entirely separate campaigns and brand presences could be presented to the marketplace, each sporting a different licensing model, (but backed by the same actual product), and the aggregate effect of the campaigns as a whole can be measured.
-
-
 
 Profile
 +++++++
