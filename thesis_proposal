@@ -1,88 +1,97 @@
-============================
-Liberty-enhancing businesses 
-============================
+----------------------------
+Liberty-enhancing businesses
+----------------------------
 
 Making money through the freedom of others
 ++++++++++++++++++++++++++++++++++++++++++
 
-Abstract
---------
+Licensing agreements are of vital importance the new digital economy. Successful licensing controls the way others can consume creative work, and places the producer in a position to maximise the profit they accrue from their efforts. The aim of my thesis will be to understand the impact of different forms of licensing on the flow of value within a startup based around a new product design.
 
-This document outlines the rationale for a novel form of experiment, and explores investigative protocols and controls. The aim is to understand the impact of licensing on the flow of value in the new digital economy.
+Establishing the right licensing and access strategy for any product is enormously difficult. Established business models for content producers tend to choose restrictive policies and paid licenses while a counterculture of hackers and makers prefer sharing their material in the public domain, or using licenses which leave many freedoms open for others. 
 
-It is proposed to launch one or more small businesses, each conceived and instrumented to collect evidence concerning the impact of licensing choices for a product design. Two alternative and opposing business strategies will be compared; liberal licensing versus the narrow enforcement of intellectual property rights.
+Liberal licensing can help creatives to promote themselves, stimulate adoption of their designs, foster collaborations and encourage others to share insights. A shift of emphasis from product to service businesses requires traditional assumptions to be dropped - actively facilitating the adoption of your designs by others can create a rich market for consultancy and support which the original creator is uniquely able to anticipate and serve. 
 
-The data gathered should help strategists map out a key aspect of the emerging digital economy, and shed light on a fundamental question for their business; When should creatives allow others the freedom to exploit their output, and when should they register and impose intellectual property rights to limit that freedom, in order to achieve the greatest commercial gain?
+However, there is an absence of quantitative evidence from controlled experiments to show which strategy is better, in which circumstances and why.
 
-This work is a natural extension to less rigorous experimentation into public domain invention and product launches already undertaken by the author during a commercial sabbatical from his full time prototyping work at BT's Research and Development labs. From February to April 2010 the Enigmaker project microblogged the prototyping of six new inventions, released into the public domain as part of a crowdsourced-invention-guessing game. One of these, a Creative Commons licensed design branded the Tacticalendar, has since been released as a consumer product.
+My PhD will investigate this question by designing tools to assess the market's response to a range of licensing strategies for physical designs. These tools will be tested by launching ideas which currently exist in prototype. The launch vehicles for these ideas will be carefully crafted, drawing on ten years of commercial experience as a implementor and strategist and combining perspectives from management science to understand how experimental controls can be introduced as part of this artificial intervention in the real-world digital economy.
 
+Experiments will compare liberal licensing agreements which allow wide use of intellectual property with those which impose a narrow enforcement of intellectual property rights. Outcomes will be monitored to see how licenses influence the behavior of stakeholders in the near term, and hypotheses put forward regarding the impact of those behaviours on long term profitability. 
+
+The results of these experiments will be made available to start-up companies trying to navigate the same difficult terrain. The thesis should help companies decide when to allow others the freedom to exploit their output, and when they should register and impose intellectual property rights to limit that freedom, in order to achieve the greatest commercial gain.
+
+This work is a natural extension to less rigorous experimentation into public domain invention and product launches already undertaken by the author during a commercial sabbatical from his full time work at BT's Research and Development labs. From February to April 2010 the Enigmaker project microblogged the prototyping of six new inventions, released into the public domain as part of a crowd-sourced invention guessing-game. One of these, a Creative Commons licensed design branded the Tacticalendar, has since been released as a consumer product.
 
 Rationale and Objectives
-------------------------
+++++++++++++++++++++++++
 
-Society profits hugely from the exchange of insight and information. Its beneficiaries build upon shared work to achieve things which are otherwise out of their reach. However, business strategies reliant on intellectual property rights concern themselves with prevention. Through measures such as patents and copyright, creators are invited to create legal obstacles for others to benefit from their work. Many feel that they must enforce these rights to defend their professional role and earning power.
+Society profits hugely from the exchange of insight and information. Its beneficiaries build upon shared work to achieve goals which are otherwise out of their reach. However, many business strategists who are reliant on intellectual property rights focus their attention on the prevention of unpaid usage of intellectual property. Through measures such as patents and copyright, creators are invited to create legal obstacles for others to benefit from their work. Many feel that they must enforce these rights to defend their professional role and earning power.
 
-By introducing and maintaining intellectual property laws, legislators have judged that the cost of limiting our freedom to imitate is a reasonable price to pay to provide a financial stimulus for creative output. However, in some cases the decision of a business to enforce rights can disadvantage its paying customers and choke the intended commercial dividend. The naive application of licensing can not only restrict liberties, but actually threaten a product's success, leaving no winners at all.
+By introducing and maintaining intellectual property laws, legislators have judged that the cost of limiting our freedom to imitate and innovate is a reasonable price to pay to provide a financial stimulus for creative output. However, in some cases the decision of a business to enforce rights can disadvantage its paying customers and choke the intended commercial dividend. The naive application of licensing can not only restrict liberties, but actually threaten a product's success, leaving no winners at all.
 
-Business losses from eager licensing can take place directly through loss of market share or reduced revenue owing to the restricted freedoms around a company's product. Also significant is the opportunity cost of missing out on a potential strategic position, customer relationship or other profit-generating mechanism. The existence of alternative revenue streams, lubricated by openness and sharing, are easily overlooked until a competitor demonstrates their value.
+Business losses from eager licensing can take place directly through loss of market share or reduced revenue owing to the restricted freedoms around a company's product. Also significant is the opportunity cost of missing out on a potential strategic position, design improvement, customer relationship or other profit-generating mechanism. The potential to engage customers in design improvements, or to establish alternative revenue streams lubricated by openness and sharing, are easily overlooked until a competitor demonstrates their value.
 
 In common with many industry commentators (Hacker 2000, Doctorow 2011), I believe the limitations on consumer freedoms imposed by content-industry-approved digital distribution have disadvantaged the legitimate product against the more accessible and flexible, unlicensed alternative of ripping content from CDs and DVDs. As the consumers choices have played out, the emergence of liberal digital distribution and consumption mechanisms such as iTunes and the iPod has undermined the 'A&R' advantages which record labels once had as gatekeepers to the market. Mainstream sales volumes for the copyright industry are in freefall and disintermediation now threatens their existence.
 
 Similarly, open source projects, which channel the contributions of many interested parties into an asset available to all, are at the core of Firefox, Google Chrome, Linux, Android, Apple's Mac OS X and iOS. Against the odds, "thriving communities...who write ...code, then give it away" (Moody 2001) have been able to erode the market share of proprietary and closed source alternatives, including those as well-resourced and dominant as Microsoft Windows and Internet Explorer, by exploiting the organising power of "technologies of cooperation" (Rheingold 2003).
 
-Where the recording industry and software industry has led, a wider group of creatives follow as the impact of the "digital revolution" (Gershenfeld 2007) cascades through their sectors. The commoditisation of both digital hardware and software, and the development of digital fabrication techniques, has led to the emergence of challenging alternative business models in which Open Source, Creative Commons and similarly liberal licenses act as the architectural foundation of a growing collection of products and services without the encumbrances and transaction friction of rights-controlled resources.
+The idea that all available IP rights should be enforced to maximise profit has been challenged across a number of industry sectors. Where the recording industry and software industry has led, a wider group of creative individuals follow as the impact of the "digital revolution" cascades through their sectors (Gershenfeld 2007). The commoditisation of both digital hardware and software, and the development of digital fabrication techniques, has led to the emergence of challenging alternative business models. Open Source, Creative Commons and similarly liberal licenses act as the architectural foundation of a growing collection of products and services without the encumbrances and transaction friction of rights-controlled resources.
 
-A conservative, establishment perspective may propose that liberal-licensing is a fad which applies only to niche markets and is not genuinely industry-changing. However, even if we adopt this point of view, there is value in understanding the boundaries of the limited envelope in which these approaches do indeed lead to proven commercial success.
+It is too soon to tell if these approaches are ‘game changers’ in every industry. So far, the commercial mainstream of inventors and product designers have not adopted liberal licenses as widely as the software community. However, even if we expect their impact to be more limited, there is value in understanding the boundaries to the business terrain in which these approaches lead to proven commercial success. 
 
-The idea that all available IP rights should be enforced to maximise profit has been challenged across a number of industry sectors. Unfortunately designers, developers and inventors familiar with a license-enforcement model are ill-equipped to identify and assess the alternative value chains available to them through liberal licensing. For example, actively facilitating the adoption of your designs by others can create a rich market for consultancy and support which the original creator is uniquely able to anticipate and serve. However the question remains under which circumstances this is more profitable than simply charging for the use of the design.
+Unfortunately designers, developers and inventors familiar with a license-enforcement model are ill-equipped to identify and assess the alternative value chains available to them through liberal licensing, and the question remains under which circumstances they are more profitable than simply charging for the use of the design.
 
-Contributors across all industries need an informed standpoint concerning the flow of value in radically liberalised economies. Strategists need to weigh up which IP rights they should waive, what the form of the expected payback should be, and how they should orient their business in order to best harvest the dividend, for example facilitating "grassroots" engagement with their offering through "virtual communities" and other communications tools (Rheingold 2000).
+Contributors across all industries need an informed standpoint concerning the flow of value in radically liberalised economies. Strategists need to weigh up which IP rights they should waive, what the form of the expected payback should be, and how they should orient their business in order to best harvest the dividend, for example facilitating "grassroots" engagement with their offering through "virtual communities" and other communications tools (Rheingold 2000). 
 
-Comparative and quantitative evidence of different licensing strategies is hard to come by. Proponents argue that the liberal licensing of well-known, high-impact projects such as the linux kernel have been a defining factor in their success , but it's hard to be sure, given we cannot wind back the clock and re-run the experiment.
+Comparative and quantitative evidence of different licensing strategies is hard to come by. Proponents argue that the liberal licensing of well-known projects such as the linux kernel have been a defining factor in their success , but it's hard to be sure, given we cannot wind back the clock and re-run the experiment.
 
 Despite the scarcity of actionable insight, established companies and seasoned professionals cannot rest on their laurels and continue with traditional models. As other disruptive innovations have proven, by the time new competitors have emerged and proven the case for liberal licensing it may already be too late to defend existing markets against those playing the game-changing wildcard.
 
 The studies I propose will be inevitably narrow in scope, but should harvest hard data for decision-makers articulating a licensing strategy for their business. In particular, the evidence gathered should help businesses avoid self-defeating licensing approaches where liberal alternatives are more profitable than intellectual property enforcement.
 
 Related work
-------------
+++++++++++++
 
-This work is deliberately complementary to existing work in "open innovation" (Chesborough 2003) and "user innovation" (von Hippel 2005). 
+This work is deliberately complementary to existing work in "open innovation" (Chesborough 2003) and
+"user innovation" (von Hippel 2005).
 
-Henry Chesborough (2003) emphasises the disclosure of intellectual property assets as a means of forming alliances and collaborations to maximise exploitation of a portfolio, but his manifesto largely depends upon the assumption of licensing as a revenue model. 
+Henry Chesborough (2003) emphasises the disclosure of intellectual property assets as a means of forming alliances and collaborations to maximise exploitation of a portfolio, but his manifesto largely depends upon the assumption of licensing as a revenue model.
 
-Eric von Hippel (1988,2005) emphasises the value of lead users' contributions to the definition and solution of commercially valuable design problems, but he does not establish particular strategies by which the liberal licensing of the organisation's own intellectual property can be used as a means of gathering and channeling user innovation to maximise profit. 
+Eric von Hippel (1988, 2005) emphasises the value of lead users' contributions to the definition and solution of commercially valuable design problems, but he does not establish particular strategies by which the liberal licensing of the organisation's own intellectual property can be used as a means of gathering and channeling user innovation to maximise profit.
 
-The focus on the licensing of product designs also contrasts strongly with existing work understanding the economic motivations of open source contributors and analysing optimum licensing for software (Lerner and Tirole 2002,Colazon and Fang 2009). As von Hippel's evidence base demonstrates, product design is an accessible discipline without the same asymmetries between a developer and a user population. The phenomenon of open-source invention is substantially less mature and proven than that of software, making it a rich domain for new enquiry.
-
+The focus on the licensing of product designs also contrasts strongly with existing work understanding the economic motivations of open source contributors and analysing optimum licensing for software (Lerner and Tirole 2002,Colazon and Fang 2009). As von Hippel's evidence base demonstrates, product design is an accessible discipline without the same asymmetries between a developer and a user population. The
+phenomenon of open-source invention is substantially less mature and proven than that of software, making it a rich domain for new enquiry.
 
 Method
-------
+++++++
 
-During the span of the PhD I would like to turn replace strategists' gut instincts about licensing into a more analytically sound picture of the way intangibles can flow through a business, lubricating relationships and facilitating the unlocking of new value. The intent is to collect a quantitative evidence base and begin to map a taxonomy of liberty-enhancing business models, predicated on the availability of digital fabrication tools to replicate designs.
+During the span of the PhD I would like to replace strategists' gut instincts about licensing, based on content and software businesses, into a more analytically sound picture of the way intangibles can flow through a business, lubricating relationships and facilitating the unlocking of new value. The intent is to collect a quantitative evidence base and begin to map a taxonomy of liberty-enhancing business models for product designs predicated on the availability of digital fabrication tools.
 
 Initially, work will focus on identifying and analysing how the licensing choices for a product design are coupled to market propagation factors. These factors in turn determine the scale of a product's penetration and success. They are likely to include...
 
-* 	the friction and cost of negotiating a license as a threshold to testing or adoption
-* 	the influence on decision makers of a license's guarantees regarding future freedom of use or modification
-*	the propensity of individuals and trusted commentators to share information of a freely-licensed product versus a commercially licensed one
-* 	the creators of complementary products seeking compatibility with products which are freely licensed in preference to those with limitations
+* the friction and cost of negotiating a license as a threshold to testing or adoption
+* the influence on decision makers of a license's guarantees regarding future freedom of use or modification
+* the propensity of individuals and trusted commentators to share promotional information about a freely-licensed product versus a commercially licensed one
+* the likelihood of feedback concerning quality or potential design improvements when the design asset is shared with the community
+* the creators of complementary products seeking compatibility with products which are freely licensed in preference to those with limitations
 
 The form of analysis for this first phase of study is closely linked to strategy choice in game theory, (Von Neumann and Morgenstern 1944) and could be led by in-silico experiments using agent-based-modelling techniques (Kreps 1990, Axelrod 1997). The results of such experiments should not only be interesting in their own right, but also help articulate the aspects of behaviour of the target audience through simplified toy worlds, which real-world experiments can directly measure in later studies.
 
-Throughout the modelling, analysis and experimental design, reference will be made to the analysis of a 'firm' as an emergent structure representing a survival strategy, dependent on a flow of resources and information to sustain its activity, and experiencing trials analogous to the 'natural selection'  of an evolving organism (Mirowski 1994, Putterman and Kroszner 1996, Leakey 1997).
-
 The modelling phase should give rise to hypotheses concerning the initial conditions and parameters under which competing licensing strategies succeed or fail. Specific questions can then be posed through live market experiments. Working closely with the management school an experimental protocol will be defined for launching one or more businesses or brands, instrumented to probe the response of the market to different license offerings, and establish the degree of correlation between the model and reality.
+
+A collection of prototype designs has already been prepared by the author whose product launch can act as a credible backbone for these experiments. One candidate is a working prototype of an Alti-Vario flight instrument intended for the hobby gliding market. Another working prototype, developed in collaboration with a ten year old entrepreneur from Wrexham as part of CBBC's My Genius Idea programme, augments the traditional keyboard with MIDI-driven LEDs which can interactively teach melodies to piano students. Each of these products could be made available to the public on the one hand as an open design which invites imitation and variation, and on the other as a closed offering which has been patented, and is only available for purchase as a final design.
+
+
+Key Questions
++++++++++++++
 
 It is not trivial to create a defensible protocol for a controlled experiment within the real digital economy. This will consume a great deal of the time, effort and collaborative work within the PhD. Simplistic approaches will fail to achieve a statistically significant data set to reduce the influence of sheer randomness on the results. On the other hand large numbers of trials targeting the same audience of decision makers could easily threaten the independence of those trials. Additionally, evidence gathered concerning audience members is likely to be impacted by self-selection bias, distorting the results compared to the population as a whole.
 
 To mitigate some of these effects, the scale of trials can be varied. At one extreme, the impact of individual concepts on a web visitor's immediate behaviour can be tested by presenting different messages and images within a single page-impression. At the other extreme, two entirely separate campaigns and brand presences could be presented to the marketplace, each sporting a different licensing model, (but backed by the same actual product), and the aggregate effect of the campaigns as a whole can be measured.
 
-A collection of prototype designs has already been prepared by the author whose product launch can act as a credible backbone for these experiments. One candidate is a working prototype of an Alti-Vario flight instrument intended for the hobby gliding market. Another working prototype, developed in collaboration with a ten year old entrepreneur from Wrexham as part of CBBC's My Genius Idea programme, augments the traditional keyboard with MIDI-driven LEDs which can interactively teach melodies to piano students. Each of these products could be made available to the public on the one hand as an open design which invites imitation and variation, and on the other as a closed offering which has been patented, and is only available for purchase as a final design.
 
 
 Profile
--------
++++++++
 
 I am a contributor and user of open source and public domain design projects, with ten years of industry experience as a commercial inventor, platform architect and product designer. I was originally recruited into industrial research through my academic work in agent-based modelling and artificial evolutionary systems at the University of Sussex.
 
@@ -90,8 +99,9 @@ My experience in industry and the maker community spans the whole spectrum of pe
 
 As a lead contributor and instigator of emerging technology projects, my role blends naturally into that of the technology strategist, marketeer and entrepreneur, attempting to drive cashflow through the technologies I create. This last perspective is definitive in the scoping of the proposed project. Decisions around the liberal sharing of IPR lack the hard numerical certainties of the profit and loss accounting for conventional markets, and no established heuristics seem to exist which can help structure the decision to proceed on a given licensing strategy.
 
+
 Relevance to Highwire
----------------------
++++++++++++++++++++++
 
 Highwire's post-disciplinary approach, with a focus on the intersection between the digital, design thinking and business organisation, offers a perfect environment for my studies to develop and be challenged by informed and interested colleagues.
 
